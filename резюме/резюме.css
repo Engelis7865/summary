@@ -34,6 +34,7 @@ body {
     top: -70px;
     left: 80px;
     font-size: 18pt;
+	background-color: Azure;
 }
 .table{
     width: 500px;
@@ -56,6 +57,7 @@ body {
     border: 3px PowderBlue;
     border-style: solid;
     text-align: center;
+	background-color: Azure;
 }
 
 .modal{
